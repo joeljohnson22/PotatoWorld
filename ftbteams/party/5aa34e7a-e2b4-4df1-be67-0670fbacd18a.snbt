@@ -1,0 +1,35 @@
+{
+	id: "5aa34e7a-e2b4-4df1-be67-0670fbacd18a"
+	type: "party"
+	owner: "08658f37-55e4-4a37-addf-c427e66d280a"
+	ranks: {
+		0b8e44f7-e99a-4bad-88cd-3042caf25faf: "officer"
+		08658f37-55e4-4a37-addf-c427e66d280a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Potatoes"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF8459"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 0b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1743829842160L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"GamerXJx\"],\"color\":\"yellow\"}" }
+		{ from: "08658f37-55e4-4a37-addf-c427e66d280a", date: 1743829855923L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"SSuunnii\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1743829857963L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"SSuunnii\"],\"color\":\"green\"}" }
+		{ from: "08658f37-55e4-4a37-addf-c427e66d280a", date: 1744167782911L, text: "{\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"text\":\"SSuunnii\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+	]
+	extra: { }
+}

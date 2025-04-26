@@ -1,0 +1,24 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "allthemodium:mining", x: 268, y: 253, z: -1714, time: 1745548406001L, xRot: 16.26325f, yRot: 168.78455f }
+	recording: "none"
+	teleport_history: [
+		{ dim: "allthemodium:mining", x: 213, y: 253, z: -1712, time: 1745516292054L, xRot: 17.69467f, yRot: -83.96387f }
+		{ dim: "allthemodium:mining", x: 431, y: 253, z: -1709, time: 1745517555948L, xRot: 3.3502495f, yRot: -63.43112f }
+		{ dim: "allthemodium:mining", x: 266, y: 254, z: -1801, time: 1745538960585L, xRot: 3.786847f, yRot: -6.859314f }
+		{ dim: "allthemodium:mining", x: 262, y: 244, z: -1733, time: 1745538982221L, xRot: 8.301537f, yRot: -3.1362417f }
+		{ dim: "allthemodium:mining", x: 264, y: 253, z: -1720, time: 1745539026544L, xRot: 23.082947f, yRot: -169.66356f }
+		{ dim: "allthemodium:mining", x: 255, y: 254, z: -1811, time: 1745539188363L, xRot: 10.922874f, yRot: 109.876114f }
+		{ dim: "allthemodium:mining", x: 264, y: 244, z: -1728, time: 1745539248644L, xRot: 2.476379f, yRot: 0.9375305f }
+		{ dim: "allthemodium:mining", x: 264, y: 254, z: -1809, time: 1745545006559L, xRot: 9.685247f, yRot: -19.174469f }
+		{ dim: "allthemodium:mining", x: 274, y: 255, z: -1694, time: 1745545041623L, xRot: 10.244499f, yRot: -99.17881f }
+		{ dim: "allthemodium:mining", x: 264, y: 254, z: -1792, time: 1745547017013L, xRot: 6.044f, yRot: -5.2361145f }
+	]
+	homes: {
+		home: { dim: "allthemodium:mining", x: 264, y: 253, z: -1718, time: 1744300964403L, xRot: 0.14632013f, yRot: -177.74597f }
+	}
+	kit_use_times: { }
+}
