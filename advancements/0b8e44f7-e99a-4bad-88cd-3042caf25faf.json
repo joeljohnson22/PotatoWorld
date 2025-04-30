@@ -9,7 +9,8 @@
     "criteria": {
       "in_goliath_honey_fountain": "2025-04-05 01:07:34 -0400",
       "in_ancient_shrine": "2025-04-11 01:04:31 -0400",
-      "in_mite_fortress": "2025-04-05 01:07:34 -0400"
+      "in_mite_fortress": "2025-04-05 01:07:34 -0400",
+      "in_honey_cave_room": "2025-04-28 01:47:41 -0400"
     },
     "done": false
   },
@@ -85,6 +86,7 @@
       "shrubland": "2025-04-05 01:25:49 -0400",
       "deciduous_forest": "2025-04-05 02:26:50 -0400",
       "redstone_abyss": "2025-04-06 17:10:19 -0400",
+      "boreal_forest": "2025-04-28 00:57:12 -0400",
       "glistering_meadow": "2025-04-06 17:32:37 -0400",
       "pine_taiga": "2025-04-06 14:45:53 -0400",
       "bayou": "2025-04-06 21:28:17 -0400",
@@ -97,6 +99,7 @@
       "saguaro_desert": "2025-04-22 20:42:09 -0400",
       "willow_forest": "2025-04-06 21:28:14 -0400",
       "temperate_grove": "2025-04-08 21:19:04 -0400",
+      "cold_river": "2025-04-28 00:57:09 -0400",
       "barley_fields": "2025-04-05 03:12:06 -0400",
       "redstone_caves": "2025-04-05 02:32:12 -0400",
       "pine_slopes": "2025-04-06 18:43:20 -0400",
@@ -109,6 +112,7 @@
       "mycotoxic_undergrowth": "2025-04-06 16:50:42 -0400",
       "redwoods": "2025-04-05 02:23:07 -0400",
       "maple_forest": "2025-04-05 01:20:35 -0400",
+      "hyacinth_deeps": "2025-04-28 00:52:06 -0400",
       "rainforest": "2025-04-12 16:08:25 -0400",
       "magnolia_highlands": "2025-04-06 14:39:47 -0400",
       "lupine_plains": "2025-04-06 19:44:41 -0400"
@@ -135,29 +139,32 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
-      "willow_forest": "2025-04-06 21:28:14 -0400",
       "silver_birch_forest": "2025-04-05 01:28:02 -0400",
-      "temperate_grove": "2025-04-08 21:19:04 -0400",
-      "barley_fields": "2025-04-05 03:12:06 -0400",
       "shrubland": "2025-04-05 01:25:49 -0400",
-      "pine_slopes": "2025-04-06 18:43:20 -0400",
       "deciduous_forest": "2025-04-05 02:26:50 -0400",
+      "boreal_forest": "2025-04-28 00:57:12 -0400",
+      "pine_taiga": "2025-04-06 14:45:53 -0400",
+      "bayou": "2025-04-06 21:28:17 -0400",
+      "autumnal_maple_forest": "2025-04-05 01:07:34 -0400",
+      "towering_cliffs": "2025-04-08 21:19:08 -0400",
+      "chalk_cliffs": "2025-04-07 21:43:48 -0400",
+      "bamboo_forest": "2025-04-05 03:27:52 -0400",
+      "saguaro_desert": "2025-04-22 20:42:09 -0400",
+      "willow_forest": "2025-04-06 21:28:14 -0400",
+      "temperate_grove": "2025-04-08 21:19:04 -0400",
+      "cold_river": "2025-04-28 00:57:09 -0400",
+      "barley_fields": "2025-04-05 03:12:06 -0400",
+      "pine_slopes": "2025-04-06 18:43:20 -0400",
       "grassy_beach": "2025-04-06 15:39:46 -0400",
       "grassland": "2025-04-05 02:12:25 -0400",
       "prairie": "2025-04-05 03:12:09 -0400",
       "rocky_meadow": "2025-04-05 01:25:50 -0400",
       "blackwood_taiga": "2025-04-06 18:47:02 -0400",
-      "pine_taiga": "2025-04-06 14:45:53 -0400",
-      "bayou": "2025-04-06 21:28:17 -0400",
       "redwoods": "2025-04-05 02:23:07 -0400",
       "maple_forest": "2025-04-05 01:20:35 -0400",
-      "autumnal_maple_forest": "2025-04-05 01:07:34 -0400",
-      "towering_cliffs": "2025-04-08 21:19:08 -0400",
-      "chalk_cliffs": "2025-04-07 21:43:48 -0400",
+      "hyacinth_deeps": "2025-04-28 00:52:06 -0400",
       "rainforest": "2025-04-12 16:08:25 -0400",
-      "bamboo_forest": "2025-04-05 03:27:52 -0400",
       "magnolia_highlands": "2025-04-06 14:39:47 -0400",
-      "saguaro_desert": "2025-04-22 20:42:09 -0400",
       "lupine_plains": "2025-04-06 19:44:41 -0400"
     },
     "done": false
@@ -322,30 +329,38 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-04-28 00:43:46 -0400",
+      "minecraft:snowy_slopes": "2025-04-28 00:57:33 -0400",
+      "minecraft:forest": "2025-04-05 02:18:16 -0400",
+      "minecraft:deep_ocean": "2025-04-05 01:37:44 -0400",
+      "minecraft:lush_caves": "2025-04-06 16:03:02 -0400",
+      "minecraft:frozen_ocean": "2025-04-28 00:44:27 -0400",
+      "minecraft:deep_frozen_ocean": "2025-04-28 00:44:54 -0400",
+      "minecraft:ocean": "2025-04-05 01:38:54 -0400",
+      "minecraft:jungle": "2025-04-12 01:12:26 -0400",
+      "minecraft:birch_forest": "2025-04-06 16:09:46 -0400",
+      "minecraft:snowy_beach": "2025-04-28 00:44:25 -0400",
+      "minecraft:bamboo_jungle": "2025-04-07 21:59:57 -0400",
+      "minecraft:windswept_savanna": "2025-04-07 22:34:48 -0400",
+      "minecraft:warm_ocean": "2025-04-22 20:42:37 -0400",
+      "minecraft:deep_lukewarm_ocean": "2025-04-21 19:06:54 -0400",
       "minecraft:badlands": "2025-04-22 20:42:15 -0400",
       "minecraft:beach": "2025-04-07 22:00:46 -0400",
       "minecraft:stony_peaks": "2025-04-05 02:27:42 -0400",
       "minecraft:dark_forest": "2025-04-12 00:55:25 -0400",
-      "minecraft:forest": "2025-04-05 02:18:16 -0400",
       "minecraft:sparse_jungle": "2025-04-05 02:20:41 -0400",
-      "minecraft:deep_ocean": "2025-04-05 01:37:44 -0400",
       "minecraft:river": "2025-04-05 02:13:26 -0400",
       "minecraft:lukewarm_ocean": "2025-04-21 19:06:56 -0400",
       "minecraft:stony_shore": "2025-04-05 01:13:31 -0400",
-      "minecraft:lush_caves": "2025-04-06 16:03:02 -0400",
+      "minecraft:snowy_plains": "2025-04-28 00:44:24 -0400",
       "minecraft:dripstone_caves": "2025-04-05 02:27:57 -0400",
+      "minecraft:frozen_peaks": "2025-04-28 00:59:45 -0400",
       "minecraft:old_growth_birch_forest": "2025-04-06 14:04:12 -0400",
       "minecraft:deep_dark": "2025-04-05 01:34:29 -0400",
-      "minecraft:ocean": "2025-04-05 01:38:54 -0400",
-      "minecraft:jungle": "2025-04-12 01:12:26 -0400",
       "minecraft:swamp": "2025-04-06 17:55:50 -0400",
-      "minecraft:birch_forest": "2025-04-06 16:09:46 -0400",
+      "minecraft:meadow": "2025-04-28 00:57:30 -0400",
       "minecraft:savanna": "2025-04-06 14:42:16 -0400",
-      "minecraft:bamboo_jungle": "2025-04-07 21:59:57 -0400",
-      "minecraft:windswept_savanna": "2025-04-07 22:34:48 -0400",
-      "minecraft:plains": "2025-04-05 02:12:22 -0400",
-      "minecraft:warm_ocean": "2025-04-22 20:42:37 -0400",
-      "minecraft:deep_lukewarm_ocean": "2025-04-21 19:06:54 -0400"
+      "minecraft:plains": "2025-04-05 02:12:22 -0400"
     },
     "done": false
   },
@@ -653,12 +668,14 @@
       "biomeswevegone:fragment_jungle": "2025-04-07 21:59:56 -0400",
       "biomeswevegone:allium_shrubland": "2025-04-05 03:17:35 -0400",
       "biomeswevegone:lush_stacks": "2025-04-05 02:03:24 -0400",
+      "biomeswevegone:coconino_meadow": "2025-04-28 00:44:20 -0400",
       "biomeswevegone:sierra_badlands": "2025-04-22 20:42:19 -0400",
       "biomeswevegone:tropical_rainforest": "2025-04-10 01:18:50 -0400",
       "biomeswevegone:cypress_swamplands": "2025-04-09 21:50:22 -0400",
       "biomeswevegone:prairie": "2025-04-08 21:18:08 -0400",
       "biomeswevegone:ebony_woods": "2025-04-05 02:29:59 -0400",
       "biomeswevegone:enchanted_tangle": "2025-04-05 03:28:34 -0400",
+      "biomeswevegone:crimson_tundra": "2025-04-28 00:44:21 -0400",
       "biomeswevegone:rainbow_beach": "2025-04-05 02:04:19 -0400"
     },
     "done": false
@@ -2419,6 +2436,251 @@
   "pneumaticcraft:advanced_pressure_tube": {
     "criteria": {
       "0": "2025-04-24 01:01:31 -0400"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-04-27 21:37:18 -0400"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-04-27 21:41:26 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-04-27 21:44:57 -0400"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-04-27 21:49:17 -0400"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-04-27 21:49:46 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-04-27 22:25:37 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-04-27 22:37:42 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-04-27 22:41:06 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-04-27 22:41:06 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-04-27 22:47:15 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-04-27 22:47:15 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-04-28 00:08:03 -0400"
+    },
+    "done": true
+  },
+  "mekanism:radiation_poisoning": {
+    "criteria": {
+      "poisoned": "2025-04-28 00:20:26 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-28 00:45:22 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-04-28 00:50:58 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/network2": {
+    "criteria": {
+      "cable": "2025-04-28 00:52:27 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruined_portal_end": {
+    "criteria": {
+      "in_ruined_portal_end": "2025-04-28 00:55:52 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:challenge_gatekeeper": {
+    "criteria": {
+      "challenged": "2025-04-28 00:57:37 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_orb_of_prophecy": {
+    "criteria": {
+      "has_item": "2025-04-28 00:57:39 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:all_starlight_biomes": {
+    "criteria": {
+      "in_starlight_dense_forest": "2025-04-28 01:16:44 -0400",
+      "in_scarlet_forest": "2025-04-28 01:03:44 -0400",
+      "in_starlight_forest": "2025-04-28 01:01:41 -0400",
+      "in_starlight_permafrost_forest": "2025-04-28 00:59:54 -0400",
+      "in_shimmer_river": "2025-04-28 01:01:45 -0400",
+      "in_lush_shallow_sea": "2025-04-28 01:15:43 -0400",
+      "in_the_abyss": "2025-04-28 01:15:56 -0400",
+      "in_ether_river": "2025-04-28 01:02:08 -0400",
+      "in_torreya_forest": "2025-04-28 01:02:35 -0400",
+      "in_dark_swamp": "2025-04-28 01:16:26 -0400",
+      "in_spiral_kelp_forest": "2025-04-28 01:15:26 -0400",
+      "in_starlit_sea": "2025-04-28 01:16:00 -0400"
+    },
+    "done": false
+  },
+  "eternal_starlight:root": {
+    "criteria": {
+      "in_dim": "2025-04-28 00:59:54 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_starlight": {
+    "criteria": {
+      "in_dim": "2025-04-28 00:59:54 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_lunar_monstrosity": {
+    "criteria": {
+      "kill": "2025-04-28 01:04:40 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_seeking_eye": {
+    "criteria": {
+      "has_item": "2025-04-28 01:07:15 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:deactivate_energy_block": {
+    "criteria": {
+      "deactivate": "2025-04-28 01:09:37 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:kill_golem": {
+    "criteria": {
+      "kill": "2025-04-28 01:12:43 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:enter_abyss": {
+    "criteria": {
+      "in_biome": "2025-04-28 01:15:56 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_swamp_silver_ingot": {
+    "criteria": {
+      "has_item": "2025-04-28 01:19:18 -0400"
+    },
+    "done": true
+  },
+  "eternal_starlight:obtain_aethersent_ingot": {
+    "criteria": {
+      "has_item": "2025-04-28 01:19:18 -0400"
+    },
+    "done": true
+  },
+  "mekanism:sps": {
+    "criteria": {
+      "sps_port": "2025-04-28 01:20:33 -0400"
+    },
+    "done": false
+  },
+  "mekanism:hydrogen_powered_flight": {
+    "criteria": {
+      "jetpack": "2025-04-28 02:09:13 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_shiraz_palace": {
+    "criteria": {
+      "location0": "2025-04-28 22:14:47 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-04-28 22:15:40 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-04-28 22:26:22 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-04-28 22:39:40 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2025-04-28 22:19:08 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-04-28 22:32:58 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-04-28 22:22:36 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-04-28 22:21:10 -0400"
     },
     "done": true
   },

@@ -631,6 +631,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-04-28 01:29:29 -0400",
       "biomeswevegone:araucaria_savanna": "2025-04-22 22:14:05 -0400",
       "biomeswevegone:ironwood_gour": "2025-04-05 02:04:28 -0400",
       "biomeswevegone:orchard": "2025-04-08 20:27:18 -0400",
@@ -643,6 +644,7 @@
       "biomeswevegone:cypress_swamplands": "2025-04-08 20:31:45 -0400",
       "biomeswevegone:baobab_savanna": "2025-04-08 20:27:38 -0400",
       "biomeswevegone:ebony_woods": "2025-04-05 02:23:40 -0400",
+      "biomeswevegone:enchanted_tangle": "2025-04-28 01:28:28 -0400",
       "biomeswevegone:basalt_barrera": "2025-04-08 20:34:23 -0400",
       "biomeswevegone:temperate_grove": "2025-04-08 20:26:59 -0400",
       "biomeswevegone:forgotten_forest": "2025-04-08 20:36:04 -0400",
@@ -2432,12 +2434,6 @@
     },
     "done": true
   },
-  "modern_industrialization:polarizer": {
-    "criteria": {
-      "checkInv": "2025-04-24 22:02:55 -0400"
-    },
-    "done": true
-  },
   "modern_industrialization:steel_wiremill": {
     "criteria": {
       "checkInv": "2025-04-24 20:38:27 -0400"
@@ -2456,9 +2452,220 @@
     },
     "done": true
   },
+  "modern_industrialization:polarizer": {
+    "criteria": {
+      "checkInv": "2025-04-24 22:02:55 -0400"
+    },
+    "done": true
+  },
   "mekanism:yellow_cake": {
     "criteria": {
       "yellow_cake_uranium": "2025-04-24 22:10:18 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:centrifuge": {
+    "criteria": {
+      "checkInv": "2025-04-27 21:32:56 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:electric_blast_furnace": {
+    "criteria": {
+      "checkInv": "2025-04-27 21:35:34 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:electronic_circuit": {
+    "criteria": {
+      "checkInv": "2025-04-27 21:36:28 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:electrolyzer": {
+    "criteria": {
+      "checkInv": "2025-04-27 21:38:12 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:chemical_reactor": {
+    "criteria": {
+      "checkInv": "2025-04-27 21:38:58 -0400"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-04-27 22:40:46 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-04-27 22:44:55 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-04-27 22:47:28 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-04-27 22:48:57 -0400"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_blood_staff": {
+    "criteria": {
+      "requirement": "2025-04-27 22:48:57 -0400"
+    },
+    "done": true
+  },
+  "mekanism:sps": {
+    "criteria": {
+      "sps_casing": "2025-04-27 23:44:56 -0400",
+      "sps_port": "2025-04-27 23:44:25 -0400"
+    },
+    "done": true
+  },
+  "mekanism:radiation_poisoning": {
+    "criteria": {
+      "poisoned": "2025-04-28 00:19:55 -0400"
+    },
+    "done": true
+  },
+  "mekanism:antimatter": {
+    "criteria": {
+      "pellet_antimatter": "2025-04-28 00:50:11 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/network2": {
+    "criteria": {
+      "cable": "2025-04-28 00:52:27 -0400"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_research_fragment_dust": {
+    "criteria": {
+      "craft_research_fragment_dust": "2025-04-28 01:19:52 -0400"
+    },
+    "done": true
+  },
+  "occultism:chalks/lime": {
+    "criteria": {
+      "chalk_lime": "2025-04-28 01:22:16 -0400"
+    },
+    "done": true
+  },
+  "occultism:chalks/light_gray": {
+    "criteria": {
+      "chalk_light_gray": "2025-04-28 01:24:13 -0400"
+    },
+    "done": true
+  },
+  "occultism:occultism/craft_soul_gem": {
+    "criteria": {
+      "craft_soul_gem": "2025-04-28 01:26:31 -0400"
+    },
+    "done": true
+  },
+  "occultism:chalks/yellow": {
+    "criteria": {
+      "chalk_gold": "2025-04-28 01:34:33 -0400"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar_dragon": {
+    "criteria": {
+      "familiar_dragon": "2025-04-28 01:38:15 -0400"
+    },
+    "done": true
+  },
+  "occultism:occultism/familiar/mans_best_friend": {
+    "criteria": {
+      "dragon_pet": "2025-04-28 01:38:28 -0400"
+    },
+    "done": false
+  },
+  "modern_industrialization:vacuum_freezer": {
+    "criteria": {
+      "checkInv": "2025-04-28 15:27:29 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:stainless_steel_ingot": {
+    "criteria": {
+      "checkInv": "2025-04-28 15:33:33 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:kanthal_coil": {
+    "criteria": {
+      "checkInv": "2025-04-28 16:14:33 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "has_item": "2025-04-28 22:57:29 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
+    "criteria": {
+      "has_item": "2025-04-28 22:56:24 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_treatedwood": {
+    "criteria": {
+      "has_item": "2025-04-28 22:10:31 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_village": {
+    "criteria": {
+      "location0": "2025-04-28 22:41:47 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mechanical_nest": {
+    "criteria": {
+      "location0": "2025-04-28 22:26:31 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bandit_village": {
+    "criteria": {
+      "location0": "2025-04-28 22:32:42 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_campsite": {
+    "criteria": {
+      "location0": "2025-04-28 22:36:46 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-04-28 22:28:36 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:tools/tools_root": {
+    "criteria": {
+      "has_item": "2025-04-28 22:11:48 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2025-04-28 22:11:48 -0400"
     },
     "done": true
   },
