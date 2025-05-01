@@ -3,19 +3,19 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "allthemodium:mining", x: 262, y: 257, z: -1740, time: 1745897081323L, xRot: 35.17053f, yRot: 178.31158f }
+	last_seen: { dim: "allthemodium:mining", x: 225, y: 253, z: -1753, time: 1746057868842L, xRot: 6.190133f, yRot: 47.916992f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "allthemodium:mining", x: 266, y: 255, z: -1807, time: 1745870912218L, xRot: 7.5736656f, yRot: 41.075867f }
-		{ dim: "allthemodium:mining", x: 277, y: 254, z: -1819, time: 1745871067480L, xRot: 3.1316464f, yRot: 75.64947f }
-		{ dim: "allthemodium:mining", x: 264, y: 250, z: -1724, time: 1745871103523L, xRot: 6.1899395f, yRot: 1.0146484f }
-		{ dim: "allthemodium:mining", x: 232, y: 244, z: -1719, time: 1745873294063L, xRot: 12.232963f, yRot: -95.667694f }
-		{ dim: "allthemodium:mining", x: 259, y: 253, z: -1726, time: 1745893538713L, xRot: 29.053679f, yRot: 169.95892f }
 		{ dim: "allthemodium:the_other", x: -3895, y: 202, z: -2322, time: 1745893589780L, xRot: 57.888718f, yRot: -115.58127f }
 		{ dim: "allthemodium:the_other", x: -3145, y: 290, z: -2311, time: 1745893709098L, xRot: 12.559864f, yRot: 141.58566f }
 		{ dim: "allthemodium:the_other", x: 24712, y: 211, z: -13254, time: 1745894931530L, xRot: 23.8115f, yRot: 166.55519f }
 		{ dim: "allthemodium:the_other", x: -13600, y: 179, z: -14375, time: 1745894939817L, xRot: 25.588196f, yRot: -11.23465f }
 		{ dim: "allthemodium:mining", x: 265, y: 244, z: -1733, time: 1745896675975L, xRot: 18.350264f, yRot: -1.9743814f }
+		{ dim: "allthemodium:mining", x: 287, y: 260, z: -1823, time: 1746052404147L, xRot: 12.816543f, yRot: 95.44165f }
+		{ dim: "allthemodium:mining", x: 287, y: 260, z: -1824, time: 1746052538299L, xRot: 8.738395f, yRot: 13.250916f }
+		{ dim: "allthemodium:mining", x: 223, y: 256, z: -1723, time: 1746053166864L, xRot: 71.28649f, yRot: 0.43565828f }
+		{ dim: "allthemodium:mining", x: 263, y: 244, z: -1707, time: 1746053219597L, xRot: 45.873997f, yRot: -156.26505f }
+		{ dim: "minecraft:overworld", x: 44, y: 74, z: -1502, time: 1746053246605L, xRot: 30.218847f, yRot: -3.4255676f }
 	]
 	homes: {
 		home: { dim: "allthemodium:mining", x: 264, y: 253, z: -1718, time: 1744300964403L, xRot: 0.14632013f, yRot: -177.74597f }

@@ -2609,33 +2609,33 @@
     },
     "done": true
   },
-  "immersiveengineering:main/craft_pump": {
-    "criteria": {
-      "has_item": "2025-04-28 22:57:29 -0400"
-    },
-    "done": true
-  },
-  "immersiveengineering:multiblocks/craft_sheetmetal": {
-    "criteria": {
-      "has_item": "2025-04-28 22:56:24 -0400"
-    },
-    "done": true
-  },
   "immersiveengineering:main/craft_treatedwood": {
     "criteria": {
       "has_item": "2025-04-28 22:10:31 -0400"
     },
     "done": true
   },
-  "dungeons_arise:find_mushroom_village": {
+  "immersiveengineering:tools/tools_root": {
     "criteria": {
-      "location0": "2025-04-28 22:41:47 -0400"
+      "has_item": "2025-04-28 22:11:48 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "has_item": "2025-04-28 22:11:48 -0400"
     },
     "done": true
   },
   "dungeons_arise:find_mechanical_nest": {
     "criteria": {
       "location0": "2025-04-28 22:26:31 -0400"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-04-28 22:28:36 -0400"
     },
     "done": true
   },
@@ -2651,21 +2651,51 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
+  "dungeons_arise:find_mushroom_village": {
     "criteria": {
-      "location0": "2025-04-28 22:28:36 -0400"
+      "location0": "2025-04-28 22:41:47 -0400"
     },
     "done": true
   },
-  "immersiveengineering:tools/tools_root": {
+  "immersiveengineering:multiblocks/craft_sheetmetal": {
     "criteria": {
-      "has_item": "2025-04-28 22:11:48 -0400"
+      "has_item": "2025-04-28 22:56:24 -0400"
     },
     "done": true
   },
-  "immersiveengineering:main/craft_workbench": {
+  "immersiveengineering:main/craft_pump": {
     "criteria": {
-      "has_item": "2025-04-28 22:11:48 -0400"
+      "has_item": "2025-04-28 22:57:29 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_refinery": {
+    "criteria": {
+      "form_multiblock": "2025-04-30 18:15:08 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/mb_fermenter": {
+    "criteria": {
+      "form_multiblock": "2025-04-30 18:08:20 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "has_item": "2025-04-30 18:08:19 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:multiblocks/craft_duroplast": {
+    "criteria": {
+      "has_item": "2025-04-30 18:35:16 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "conveyor_basic": "2025-04-30 18:32:01 -0400"
     },
     "done": true
   },
